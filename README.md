@@ -1,9 +1,13 @@
 Includes:
 
 ----Rotate, Blink and Bounce Animations
+
 ----Runnables(for all apis)
+
 ----Handlers(for all apis)
+
 ----NetworkAvaliable (for all apis)
+
 ----Linking to TextView
 
 Demo:
