@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string
+        name="githubTextandLink"><a href="https://github.com/MustafaSP">Github/MustafaSP</a></string>
+</resources>
